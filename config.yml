@@ -1,0 +1,4 @@
+Settings:
+  Video: .\video.txt
+  Audio: .\audio.txt
+  Logs:  .\Logs.txt
